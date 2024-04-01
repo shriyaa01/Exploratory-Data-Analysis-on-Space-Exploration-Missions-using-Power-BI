@@ -1,4 +1,4 @@
-# Exploratory-Data-Analysis-on-Space-Exploration-Missions
+# Exploratory Data Analysis on Space Exploration Missions
 
 Welcome to the Exploratory Data Analysis (EDA) project on Space Exploration Missions! This repository contains Power BI report that analyze data related to space exploration missions.
 
